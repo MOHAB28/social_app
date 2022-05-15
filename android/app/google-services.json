@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986860077543",
+    "project_id": "socialapp-f831e",
+    "storage_bucket": "socialapp-f831e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986860077543:android:7d311c8147a29dd0247d42",
+        "android_client_info": {
+          "package_name": "com.mohabmahmo.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986860077543-fpb9g9bv7amgep6t40u8fidhr79j1ouq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP8RAN0-u1_X-GjI6JXD6bxrDU9h7oXvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986860077543-fpb9g9bv7amgep6t40u8fidhr79j1ouq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
